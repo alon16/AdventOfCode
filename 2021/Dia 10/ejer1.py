@@ -1,6 +1,6 @@
 def main():
     result,unos,ceros=[],0,0
-    with open("Dia3/input.txt","r") as archivo:
+    with open("Dia10/input.txt","r") as archivo:
         for linea in archivo:
             list=[]
             list.extend(linea.strip())
